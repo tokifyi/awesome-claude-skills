@@ -149,6 +149,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
+- [Webly](https://github.com/Webly-AI/webly-plugin/tree/main/skills/webly) - Publishes a website or shares files and folders at a live URL in seconds with no account; the person can then sign in to claim it, edit it over MCP, and publish drafts they approve, with custom domains and version history. Install with `npx skills add Webly-AI/webly-plugin --skill webly -g`. *By [@Webly-AI](https://github.com/Webly-AI)*
 
 ### Data & Analysis
 
